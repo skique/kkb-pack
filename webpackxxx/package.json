@@ -1,0 +1,19 @@
+{
+  "name": "webpackxxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kkb.config.js",
+  "scripts": {
+    "build": "webpack",
+    "build:kkb": "kkb-pack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {}
+}
